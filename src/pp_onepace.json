@@ -2734,6 +2734,13 @@
         "overview": "As the Reverie commences, Emperors Big Mom and Kaido both set their sights on Luffy! Meanwhile, a mysterious outsider visits the highest authority in the world, and the Revolutionary Army confirms its desire to save Kuma.\n\nManga Chapter(s): 907-908\nAnime Episode(s): 886-889"
       },
       {
+        "id": "WN_1",
+        "season": 32,
+        "episode": 1,
+        "title": "Onward to Wano",
+        "overview": "The Straw Hats begin their infiltration of the isolated Land of Wano."
+      },
+      {
         "id": "WN_2",
         "season": 32,
         "episode": 2,
@@ -3119,6 +3126,20 @@
         "overview": "It's a fight to remember! Five members from the Worst Generation—Monkey D. Luffy, Eustass \"Captain\" Kid, Trafalgar Law, Roronoa Zoro, and Killer—facing off against two Emperors—Kaido, \"King of the Beasts,\" and Charlotte Linlin, a.k.a. Big Mom!\n\nManga Chapter(s): 1001-1002\nAnime Episode(s): 1016-1017"
       },
       {
+        "id": "WN_57",
+        "season": 32,
+        "episode": 57,
+        "title": "Millet Dumplings",
+        "overview": "Luffy momentarily topples Kaido with Gear Fourth, but the effort depletes his haki. Inside Onigashima, Tama's plan to rid the country of Kaido and Orochi unfolds as she feeds the gifters her special millet dumplings and turns the tide of battle!\n\nManga Chapter(s): 1003-1004\nAnime Episode(s): 1018-1020"
+      },
+      {
+        "id": "WN_58",
+        "season": 32,
+        "episode": 58,
+        "title": "The Honorable Hyogoro \"the Flower\"",
+        "overview": "Sanji shocks all when he is heard begging for his life and calling for a certain crewmate to rescue him. Meanwhile, Momo is forced out of his hiding spot while his allies and Marco struggle to keep the enemy from interrupting Chopper's work.\n\nManga Chapter(s): 1005-1006\nAnime Episode(s): 1020-1022"
+      },
+      {
         "id": "EG_1",
         "season": 33,
         "episode": 1,
@@ -3257,20 +3278,6 @@
         "episode": 20,
         "title": "Sentomaru",
         "overview": "Admiral Kizaru finally makes landfall, but Sentomaru stands in his way while the Straw Hats attempt to move the Sunny to the back side of the island. And back at Mary Geoise, Fleet Admiral Akainu stands in the way of the ever-advancing Kuma.\n\nManga Chapter(s): 1091-1092\nAnime Episode(s): 1125-1126"
-      },
-      {
-        "id": "WN_57",
-        "season": 32,
-        "episode": 57,
-        "title": "Millet Dumplings",
-        "overview": "Luffy momentarily topples Kaido with Gear Fourth, but the effort depletes his haki. Inside Onigashima, Tama's plan to rid the country of Kaido and Orochi unfolds as she feeds the gifters her special millet dumplings and turns the tide of battle!\n\nManga Chapter(s): 1003-1004\nAnime Episode(s): 1018-1020"
-      },
-      {
-        "id": "WN_58",
-        "season": 32,
-        "episode": 58,
-        "title": "The Honorable Hyogoro \"the Flower\"",
-        "overview": "Sanji shocks all when he is heard begging for his life and calling for a certain crewmate to rescue him. Meanwhile, Momo is forced out of his hiding spot while his allies and Marco struggle to keep the enemy from interrupting Chopper's work.\n\nManga Chapter(s): 1005-1006\nAnime Episode(s): 1020-1022"
       }
     ]
   }
