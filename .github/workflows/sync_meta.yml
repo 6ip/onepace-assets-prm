@@ -1,0 +1,35 @@
+name: Sync and Clean Metadata
+
+on:
+  schedule:
+    # This tells GitHub to run the script every hour automatically
+    - cron: '0 * * * *'
+  workflow_dispatch: # This adds a "Run Now" button for manual testing
+
+jobs:
+  update-metadata:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Crucial: Allows the robot to push to your repo
+
+    steps:
+      - name: Checkout your repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Run Clean Script
+        run: python clean.py
+
+      - name: Commit and Push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add src/pp_onepace.json
+          
+          # This command checks if the file actually changed compared to your repo
+          # If no changes are found, it does nothing. If changed, it pushes!
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-sync: ladyisatis updated metadata" && git push)
