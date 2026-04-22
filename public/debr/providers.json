@@ -3,6 +3,7 @@
     "id": "rdkey",
     "name": "Real-Debrid",
     "icon": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/debr/real-debrid.png",
+	"signup": "http://real-debrid.com/?id=14708579",
     "link": "https://real-debrid.com/apitoken",
     "placeholder": "Paste RD API Key here...",
     "subtitle": "Watch One Pace with Real-Debrid",
@@ -12,27 +13,30 @@
     "id": "torbox",
     "name": "TorBox",
     "icon": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/debr/torbox.svg",
+	"signup": "https://torbox.app/pricing",
     "link": "https://torbox.app/settings",
     "placeholder": "Paste TorBox API Key here...",
     "subtitle": "Watch One Pace with TorBox",
     "suffix": "TB"
   },
   {
+    "id": "premiumize",
+    "name": "Premiumize",
+    "icon": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/debr/premiumize.svg",
+	"signup": "https://www.premiumize.me/premium",
+    "link": "https://www.premiumize.me/account",
+    "placeholder": "Paste Premiumize API Key here...",
+    "subtitle": "Watch One Pace with Premiumize",
+    "suffix": "PM"
+  },
+  {
     "id": "alldebrid",
     "name": "AllDebrid",
     "icon": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/debr/alldebrid.png",
+	"signup": "https://alldebrid.com/offer/",
     "link": "https://alldebrid.com/apikeys",
     "placeholder": "Paste AllDebrid API Key here...",
     "subtitle": "Watch One Pace with AllDebrid",
     "suffix": "AD"
   },
-  {
-    "id": "premiumize",
-    "name": "Premiumize",
-    "icon": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/debr/premiumize.svg",
-    "link": "https://www.premiumize.me/account",
-    "placeholder": "Paste Premiumize API Key here...",
-    "subtitle": "Watch One Pace with Premiumize",
-    "suffix": "PM"
-  }
 ]
