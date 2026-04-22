@@ -1,0 +1,26 @@
+[
+  {
+    "id": "rdkey",
+    "name": "Real-Debrid",
+    "icon": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/debr/real-debrid.png",
+    "link": "https://real-debrid.com/apitoken",
+    "placeholder": "Paste RD API Key here...",
+    "subtitle": "Watch One Pace with Real-Debrid"
+  },
+  {
+    "id": "torbox",
+    "name": "TorBox",
+    "icon": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/debr/torbox.svg",
+    "link": "https://torbox.app/settings",
+    "placeholder": "Paste TorBox API Key here...",
+    "subtitle": "Watch One Pace with TorBox"
+  },
+  {
+    "id": "alldebrid",
+    "name": "AllDebrid",
+    "icon": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/debr/alldebrid.png",
+    "link": "https://alldebrid.com/apikeys",
+    "placeholder": "Paste AllDebrid API Key here...",
+    "subtitle": "Watch One Pace with AllDebrid"
+  }
+]
