@@ -3,9 +3,9 @@
     "id": "rdkey",
     "name": "Real-Debrid",
     "icon": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/debr/real-debrid.png",
-	"signup": "http://real-debrid.com/?id=14708579",
+    "signup": "http://real-debrid.com/?id=14708579",
     "link": "https://real-debrid.com/apitoken",
-    "placeholder": "Paste RD API Key here...",
+    "placeholder": "Paste Real-Debrid API Key here...",
     "subtitle": "Watch One Pace with Real-Debrid",
     "suffix": "RD"
   },
@@ -13,7 +13,7 @@
     "id": "torbox",
     "name": "TorBox",
     "icon": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/debr/torbox.svg",
-	"signup": "https://torbox.app/subscription?referral=f0c26e2c-5d47-4606-9318-5a0ff6cf95c5",
+    "signup": "https://torbox.app/subscription?referral=f0c26e2c-5d47-4606-9318-5a0ff6cf95c5",
     "link": "https://torbox.app/settings",
     "placeholder": "Paste TorBox API Key here...",
     "subtitle": "Watch One Pace with TorBox",
@@ -23,7 +23,7 @@
     "id": "premiumize",
     "name": "Premiumize",
     "icon": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/debr/premiumize.svg",
-	"signup": "https://www.premiumize.me/premium",
+    "signup": "https://www.premiumize.me/premium",
     "link": "https://www.premiumize.me/account",
     "placeholder": "Paste Premiumize API Key here...",
     "subtitle": "Watch One Pace with Premiumize",
@@ -33,10 +33,20 @@
     "id": "alldebrid",
     "name": "AllDebrid",
     "icon": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/debr/alldebrid.png",
-	"signup": "https://alldebrid.com/offer/",
+    "signup": "https://alldebrid.com/offer/",
     "link": "https://alldebrid.com/apikeys",
     "placeholder": "Paste AllDebrid API Key here...",
     "subtitle": "Watch One Pace with AllDebrid",
     "suffix": "AD"
+  },
+  {
+    "id": "dlkey",
+    "name": "Debrid-Link",
+    "icon": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/debr/debrid_link.svg",
+    "signup": "https://debrid-link.com/id/2ZRnX",
+    "link": "https://debrid-link.com/webapp/apikey",
+    "placeholder": "Paste Debrid-Link API Key here...",
+    "subtitle": "Watch One Pace with Debrid-Link",
+    "suffix": "DL"
   }
 ]
