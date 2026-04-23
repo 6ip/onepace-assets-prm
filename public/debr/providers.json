@@ -13,7 +13,7 @@
     "id": "torbox",
     "name": "TorBox",
     "icon": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/debr/torbox.svg",
-	"signup": "https://torbox.app/pricing",
+	"signup": "https://torbox.app/subscription?referral=f0c26e2c-5d47-4606-9318-5a0ff6cf95c5",
     "link": "https://torbox.app/settings",
     "placeholder": "Paste TorBox API Key here...",
     "subtitle": "Watch One Pace with TorBox",
