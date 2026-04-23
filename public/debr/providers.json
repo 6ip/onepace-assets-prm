@@ -28,15 +28,5 @@
     "placeholder": "Paste Premiumize API Key here...",
     "subtitle": "Watch One Pace with Premiumize",
     "suffix": "PM"
-  },
-  {
-    "id": "alldebrid",
-    "name": "AllDebrid",
-    "icon": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/debr/alldebrid.png",
-	"signup": "https://alldebrid.com/offer/",
-    "link": "https://alldebrid.com/apikeys",
-    "placeholder": "Paste AllDebrid API Key here...",
-    "subtitle": "Watch One Pace with AllDebrid",
-    "suffix": "AD"
   }
 ]
